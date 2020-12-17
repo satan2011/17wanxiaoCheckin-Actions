@@ -74,7 +74,7 @@ on:
   pull_request:
     branches: [ master ]
   schedule:
-    - cron: 22 * * *
+    - cron: 0 22 * * *
 ```
 
 
